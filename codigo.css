@@ -1,0 +1,38 @@
+.calculadora{
+    display:block;
+    margin:0 auto;
+    padding:20px;
+    background-color:#2980b9;
+    width:350px;
+    height:600px;
+    border-radius: 30px;
+    background-size: 170%;
+    background-image: url('C:/Users/Vanesa R/Documents/8 SEMESTRE/ING.CONOCIMIENTO/u4/calculadora boo/boo1.gif');
+  }
+  .calculadora td button{
+    display:block;
+    width:70px;
+    height: 70px;
+    border-radius: 100%;
+    background-color: #E490FF;
+    font-size: 25px;
+  }
+  #creditos{
+    display:block;
+    padding-top:20px;
+    color:#fff;
+    text-align: center;
+    width:300px;
+  }
+  #resultado{
+    display:block;
+    text-align: center;
+    font-size: 40px;
+    margin-bottom: 50px;
+    width:300px;
+    height: 100px;
+    line-height: 100px;
+    background-color:rgb(202, 1, 152);
+    border-radius: 25px;
+    overflow-y: scroll;
+  }
